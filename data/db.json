@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "title": "canvas制作波浪状动态背景",
+      "source": "/source/_posts/1417769716934.md",
+      "author": "cyclegtx",
+      "date": 1417769716934,
+      "desc": "canvas制作波浪状动态背景\n===============\n先看效果图  \n![效果图](https://raw.githubusercontent.com/cyclegtx/wave_background/gh-pages/images/1.gif)  \n\n此页面是微信公众帐号《玩转三里屯》中的“消费指南”功能所用的页面。考虑到页面只在手机中浏览，而且手机对canvas的支持又非常好，所以打算使用canvas做点不一样的动画。  \n\n<a href=\"http://cssdeck.com/labs/collab/u73pt0ew\" target=\"_blank\">代码在线预览</a>  \n\n",
+      "github": "https://raw.githubusercontent.com/cyclegtx/wave_background/master/README.md",
+      "github_fullname": "cyclegtx/wave_background"
+    }
+  ]
+}
